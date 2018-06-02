@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stations SYSTEM "stations.dtd">
+<stations>
+    <station type="opened">
+        <img>
+            <imgName>WoodLane</imgName>
+        </img>
+        <name>
+            <currentName> Wood Lane </currentName>
+        </name>
+        <information>
+            <position>
+                <postcode> W12 7SL </postcode>
+                <lineAdress> Ariel Way, Shepherd's Bush, London</lineAdress>
+            </position>
+            <openedTime> 
+                <date> 12 </date>
+                <month> October </month>
+                <year> 2008 </year>
+            </openedTime>
+            <zones> 2 </zones>
+            <lines> Hammersmith &amp; City </lines>
+            <lines> Circle </lines>
+            <usage> 3.68 </usage>
+            <history>
+                The Hammersmith and City line was opened on 13 June 1864 by the Metropolitan Railway (MR) as the Hammersmith branch line. The railway became part of London Underground in 1933 and the took on a separate identity as the Hammersmith and City line in 1988.
+                
+                In 1908 the Franco-British Exhibition and the 1908 Summer Olympics came to London, the first of a number of major events in White City that attracted infrastructural investment by railway companies. Among others, the MR opened its Wood Lane station on the Hammersmith branch to serve the event. From 1927 it was used to transport the public to and from the greyhound racing at White City Stadium. The station opened and closed intermittently, and was renamed twice, to Wood Lane (White City) in 1920 and White City in 1947, before it closed in 1959 following fire damage. For the next 49 years, the Wood Lane area was served only by White City on the Central line; Hammersmith line trains passed over the lane without stopping, the nearest station on that line approximately 1 km (0.62 mi) away at Shepherd's Bush.
+                
+                In 2005 work commenced on the large-scale Westfield Shopping Centre. As part of the work, improvements were made to public transport including rebuilding Shepherd's Bush Central line station, a new Shepherd's Bush railway station and two bus interchanges. It was decided to build a new station on the Hammersmith &amp; City line, just south-west of the old Metropolitan station on Wood Lane. In 2006 Transport for London decided on the name Wood Lane, reviving a historical name. This was the first time that a new station on the Tube had been given the name of a former station that had been closed for several years.
+                
+                The station opened on 12 October 2008. In December 2009 Wood Lane was added to the Circle line when the line was extended to Hammersmith.
+            </history>
+        </information>
+    </station>
+</stations>

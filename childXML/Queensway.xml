@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stations SYSTEM "stations.dtd">
+<stations>
+    <station type="">
+        <img>
+            <imgName>Queensway</imgName>
+        </img>
+        <name>
+            <usedName>Queen's Road</usedName>
+            <currentName>Queensway</currentName>
+        </name>
+        <information>
+            <position>
+                <postcode>W2 4RH</postcode>
+                <lineAdress>Bayswater Rd, London </lineAdress>
+            </position>
+            <openedTime>
+                <date>16</date>
+                <month>July</month>
+                <year>1900</year>
+            </openedTime>
+            <zones>1</zones>
+            <lines>Central</lines>
+            <usage>8.71</usage>
+            <history>
+                It opened on 30 July 1900, as Queen's Road, and was renamed on 1 September 1946. The building is an unusual survivor of the buildings designed for the Central London Railway by Harry Bell Measures, with a flat roof so that commercial development could take place above – in this case, a hotel.
+            </history>
+        </information>
+    </station>
+</stations>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stations SYSTEM "stations.dtd">
+<stations>
+    <station type="opened">
+        <img>
+            <imgName>WoodGreen</imgName>
+        </img>
+        <name>
+            <currentName> Wood Green </currentName>
+        </name>
+        <information>
+            <position>
+                <postcode> N22 6EB </postcode>
+                <lineAdress> Wood Green, London </lineAdress>
+            </position>
+            <openedTime>
+                <date>19</date>
+                <month> September </month>
+                <year>1932</year>
+            </openedTime>
+            <zones> 3 </zones>
+            <lines> Piccadilly </lines>
+            <usage> 13.20 </usage>
+            <history>
+                The station opened on 19 September 1932 when the first section of the Cockfosters extension from Finsbury Park was opened.
+                
+                Like all stations on the extension, Wood Green set new aesthetic standards, not previously seen on London's Underground. When the Cockfosters extension was planned, alternative names for this station—"Lordship Lane" and "Wood Green Central"—were considered, but rejected. Architecturally, this station, designed by Charles Holden, is a well-preserved example of the modernist house style Holden developed for London Transport in the 1930s. Located on a corner site, the main frontage is curved and is flanked by two ventilation towers, although these are later additions to the station. On the northern side, the structure also incorporates a shop which forms part of the parade in High Road. The other end of the parade features a large London Underground sub-station.
+                
+                Since July 2011, the station has been a grade II listed building, which now means every station building between Turnpike Lane and Cockfosters is listed.
+                
+                The below surface areas of the station are tiled in biscuit-coloured tiles lined with green friezes. The station tunnels—in common with those of Manor House and Turnpike Lane—are 23 ft (7 m) diameter and were designed for the greater volume of traffic expected. In contrast, the platform tunnels at both Bounds Green and Southgate have a diameter of only 21 ft (6.4 m). The construction of "suicide pits" between the rails was a new innovation.
+                
+                To the north of the station is a reversing siding. This was used for reversing northbound trains so that they could return towards central London and Heathrow Airport or Uxbridge. Until the 1990s trains were regularly turned back here - trains now only reverse at Wood Green in times of service disruption, or to regain time after late running.
+                
+                On 16 March 1976, the station was the site of a Provisional IRA bombing, when a device exploded on an empty train as it prepared to enter the reversing siding, before heading west to pick up football supporters at Arsenal. There was one passenger standing on the platform and was injured by flying glass.
+                
+                The National Rail station now called Alexandra Palace was formerly called Wood Green; it was renamed in 1984.
+            </history>
+        </information>
+    </station>
+</stations>

@@ -1,0 +1,23 @@
+<!ELEMENT stations (station+)>
+<!ELEMENT station (img, name, information)>
+<!ATTLIST station type CDATA #REQUIRED>
+
+<!ELEMENT img (imgName)>
+<!ELEMENT imgName (#PCDATA)>
+
+<!ELEMENT name (usedName*, currentName)>
+<!ELEMENT usedName (#PCDATA)>
+<!ELEMENT currentName (#PCDATA)>
+
+<!ELEMENT information (position, openedTime, zones, lines+, usage, history)>
+<!ELEMENT position (postcode, lineAdress)>
+<!ELEMENT postcode (#PCDATA)>
+<!ELEMENT lineAdress (#PCDATA)>
+<!ELEMENT openedTime (date*, month*, year)>
+<!ELEMENT  date (#PCDATA)>
+<!ELEMENT  month (#PCDATA)>
+<!ELEMENT  year (#PCDATA)>
+<!ELEMENT zones (#PCDATA)>
+<!ELEMENT lines (#PCDATA)>
+<!ELEMENT usage (#PCDATA)>
+<!ELEMENT history (#PCDATA)>
