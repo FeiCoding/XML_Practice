@@ -1,0 +1,14 @@
+table {
+    border: 1px solid black;
+}
+
+/* make two tables display side by side */
+.inlineTable {
+    display: inline-block;
+}
+
+/* Align the content of table */
+td {
+    text-align: center;
+    vertical-align: middle;
+}

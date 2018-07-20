@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stations SYSTEM "stations.dtd">
+<stations>
+    <station type="opened">
+        <img>
+            <imgName>BakerStreet</imgName>
+            <imgSrc>https://en.wikipedia.org/wiki/List_of_London_Underground_stations#/media/File:BakerStEntrance.JPG</imgSrc>
+        </img>
+        <name>
+            <currentName> Baker Street </currentName>
+        </name>
+        <information>
+            <position>
+                <postcode> HA3 8NT </postcode>
+                <lineAdress> Marylebone Rd, Marylebone </lineAdress>
+            </position>
+            <openedTime> 
+                <date> 10 </date>
+                <month> January </month>
+                <year> 1863 </year>
+            </openedTime>
+            <zones> 1 </zones>
+            <lines> Metropolitan </lines>
+            <lines> Bakerloo </lines>
+            <lines> Circle </lines>
+            <lines> Jubilee </lines>
+            <lines>Hammersmith &amp; City </lines>
+            <localAuthority>City of Westminster</localAuthority>
+            <usage> 29.75 </usage>
+            <website>https://en.wikipedia.org/wiki/Baker_Street_tube_station</website>
+        </information>
+        <history> 
+            <para>In the first half of the 19th century, the population and physical extent of London grew greatly. The congested streets and the distance to the City from the stations to the north and west prompted many attempts to get parliamentary approval to build new railway lines into the City. In 1852, Charles Pearson planned a railway from Farringdon to King's Cross. Although the plan was supported by the City, the railway companies were not interested and the company struggled to proceed. The Bayswater, Paddington, and Holborn Bridge Railway Company was established to connect the Great Western Railway's (GWR) Paddington station to Pearson's route at King's Cross. A bill was published in November 1852 and in January 1853 the directors held their first meeting and appointed John Fowler as its engineer. Several bills were submitted for a route between Paddington and Farringdon.The company's name was also to be changed again, to Metropolitan Railway and the route was approved on 7 August 1854.</para>
+            
+            <para>Construction began in March 1860 with works mostly using the "cut-and-cover" method from Paddington to King's Cross; east of there it continued in a short tunnel then followed the culverted River Fleet in an open cutting to near the new Smithfield meat market. Delayed by several accidents during construction, work was complete by the end of 1862 at a cost of £1.3 million. The railway opened to the public on Saturday 10 January 1863. The Met was granted permission for two additional tracks (the City Widened Lines) from King's Cross to Farringdon Street in 1861, and a four-track eastward extension to Moorgate in 1864. The extension to Aldersgate Street and Moorgate Street (now Barbican and Moorgate) opened on 23 December 1865. On 13 April 1868, the MR opened the first section of Metropolitan and St John's Wood Railway as a branch from its existing route. This line, serving the open-air platforms, was steadily extended to Willesden Green and northwards, finally reaching Aylesbury Town and Verney Junction (some 50 miles/80 km from Baker Street) in 1892. The MR station mainly competed for traffic with Euston, where the LNWR provided local services to Middlesex and Watford, and later with Marylebone, where the GCR provided expresses to Aylesbury and beyond on the same line.</para>
+            
+                <para>Over the next few decades this section of the station was extensively rebuilt to provide four platforms. The current Metropolitan line layout largely dates from 1925, and the bulk of the surface buildings, designed by architect Charles Walter Clark, also date from this period.</para>
+            
+                <para>As part of the Transported by Design programme of activities, in 15 October 2015, after two months of public voting, Baker Street underground station's platforms were elected by Londoners as one of the 10 favourite transport design icons.</para>
+        </history>
+    </station>
+</stations>
+

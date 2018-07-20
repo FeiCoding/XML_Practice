@@ -4,6 +4,7 @@
     <station type="">
         <img>
             <imgName>Queensway</imgName>
+            <imgSrc>https://en.wikipedia.org/wiki/List_of_London_Underground_stations#/media/File:Queensway_tube_station.jpg</imgSrc>
         </img>
         <name>
             <usedName>Queen's Road</usedName>
@@ -21,10 +22,12 @@
             </openedTime>
             <zones>1</zones>
             <lines>Central</lines>
+            <localAuthority>City of Westminster</localAuthority>
             <usage>8.71</usage>
-            <history>
-                It opened on 30 July 1900, as Queen's Road, and was renamed on 1 September 1946. The building is an unusual survivor of the buildings designed for the Central London Railway by Harry Bell Measures, with a flat roof so that commercial development could take place above – in this case, a hotel.
-            </history>
+            <website>https://en.wikipedia.org/wiki/Queensway_tube_station</website>
         </information>
+        <history>
+            <para>It opened on 30 July 1900, as Queen's Road, and was renamed on 1 September 1946. The building is an unusual survivor of the buildings designed for the Central London Railway by Harry Bell Measures, with a flat roof so that commercial development could take place above – in this case, a hotel.</para>
+        </history>
     </station>
 </stations>

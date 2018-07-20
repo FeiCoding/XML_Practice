@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stations SYSTEM "stations.dtd">
+<stations>
+    <station type="building">
+        <img>
+            <imgName>NineElms</imgName>
+            <imgSrc>https://en.wikipedia.org/wiki/List_of_London_Underground_stations#/media/File:Nine_Elms_London_Underground_Station_construction_site.jpg</imgSrc>
+        </img>
+        <name>
+            <currentName>Nine Elms</currentName>
+        </name>
+        <information>
+            <position>
+                <postcode> SW8 4SR</postcode>
+                <lineAdress> 52-, 58 Wandsworth Rd, London </lineAdress>
+            </position>
+            <openedTime> 
+                <year>2020</year> 
+            </openedTime>
+            <zones> 1 </zones>
+            <lines> Northern </lines>
+            <localAuthority>Wandsworth</localAuthority>
+            <usage> 0 </usage>
+            <website>https://en.wikipedia.org/wiki/Nine_Elms_tube_station</website>
+        </information>
+        <history>
+            <para>Nine Elms is a London Underground station under construction in Nine Elms, London, as part of the Northern line extension to Battersea. The station is projected to open along with the rest of the extension in 2020, and will serve the rapidly growing Nine Elms area, New Covent Garden Market and the new Embassy of the United States.</para>
+            
+                <para>The new station is close to the site of the former Nine Elms railway station, once the terminus of the London and South Western Railway.</para>
+        </history>
+    </station>
+</stations>

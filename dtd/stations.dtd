@@ -1,0 +1,47 @@
+<!--The DTD file has a top element stations, which means there are several individual station elements-->
+<!--Each station element has three main parts, which are image, name, information and history.                      -->
+<!--The data type of station is required.                                                         -->
+
+<!ELEMENT stations (station+)>
+<!ELEMENT station (img, name, information, history)>
+<!ATTLIST station type CDATA #REQUIRED>
+
+<!--In image part, the image name and its source will be included. -->
+
+<!ELEMENT img (imgName, imgSrc)>
+<!ELEMENT imgName (#PCDATA)>
+<!ELEMENT imgSrc (#PCDATA)>
+
+<!--In name part, the current name of stations and its used name before will be present. -->
+<!ELEMENT name (usedName*, currentName)>
+<!ELEMENT usedName (#PCDATA)>
+<!ELEMENT currentName (#PCDATA)>
+
+<!--Information would include some more basic details about the station.-->
+<!--Position must be included due to it's the most important information about the station, it should cover the position and postcode-->
+<!--Open time need to cover the date, month and the year it opened. -->
+<!--Zones is a hint to tell reader whether this station will make another cost due to the usage policy of underground-->
+<!--Lines are another important information to tell reader whether it will cover some lines in the station -->
+<!--The usage will tell the station how busy it is -->
+<!ELEMENT information (position+, openedTime, zones, lines+, localAuthority+, usage, website)>
+<!ELEMENT position (postcode, lineAdress)>
+<!ELEMENT postcode (#PCDATA)>
+<!ELEMENT lineAdress (#PCDATA)>
+
+<!ELEMENT openedTime (date*, month*, year)>
+<!ELEMENT  date (#PCDATA)>
+<!ELEMENT  month (#PCDATA)>
+<!ELEMENT  year (#PCDATA)>
+
+<!ELEMENT localAuthority (#PCDATA)>
+<!ELEMENT zones (#PCDATA)>
+<!ELEMENT lines (#PCDATA)>
+<!ELEMENT usage (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+
+<!--History will be another important information for some reader to learn -->
+<!--The body part contains many paragraphs -->
+<!ELEMENT history (p+)>
+<!ELEMENT p (#PCDATA| year_established )*>
+<!ELEMENT year_established (#PCDATA)>
+

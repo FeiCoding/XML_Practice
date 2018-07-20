@@ -22,7 +22,7 @@
                 <link rel="stylesheet" type="text/css" href="style1.css" />
             </head>
             
-            <h1 style="text-align:center">My Favorite 10 Stations</h1>
+            <h1 style="text-align:center">Station Details</h1>
             
             <!-- Build up the table -->
             <table border="1" class="inlineTable">
@@ -38,9 +38,6 @@
                     <td>Used Name</td>
                     <td colspan="2">Postcode/Position</td>
                     <td>Time of Opened</td>
-                    <td>Zone</td>
-                    <td>Lines</td>
-                    <td>Usage</td>
                 </tr>
                 <xsl:for-each select="stations/station">
                     <tr>
@@ -80,35 +77,6 @@
                             <xsl:value-of select="information/openedTime/month"/>
                             <xsl:value-of select="information/openedTime/year"/>
                         </td>
-                        <td>
-                            <xsl:value-of select="information/zones"/>
-                        </td>
-                        <td>
-                            <xsl:value-of select="information/lines"/>
-                        </td>
-                        
-                        <!-- use when-otherwise statement to mark the station which in highly using and which is not accoring to the number of usage -->
-                        <xsl:choose>
-                            
-                            <!-- usage under 5 means smoothly using -->
-                            <xsl:when test="information/usage &lt; 5">
-                                <td bgcolor="#00ccff">
-                                    <xsl:value-of select="information/usage"/>
-                                </td>
-                            </xsl:when>
-                            
-                            <!-- usage greater than 50 means busy using -->
-                            <xsl:when test="information/usage &gt; 50">
-                                <td bgcolor="#ff0000">
-                                    <xsl:value-of select="information/usage"/>
-                                </td>
-                            </xsl:when>
-                            <xsl:otherwise>
-                                <td>
-                                    <xsl:value-of select="information/usage"/>
-                                </td>
-                            </xsl:otherwise>
-                        </xsl:choose>
                     </tr>
                 </xsl:for-each>
             </table>
@@ -118,19 +86,11 @@
                 <th> Color </th>
                 <th> Meaning </th>
                 <tr>
-                    <td bgcolor="#00ccff"/>
-                    <td>Smooth</td>
-                </tr>
-                <tr>
-                    <td bgcolor="#ff0000"/>
-                    <td>Busy</td>
-                </tr>
-                <tr>
                     <td bgcolor="#ff66ff"/>
                     <td>Under Building</td>
                 </tr>
             </table>
         </html>
     </xsl:template>
-
+    
 </xsl:stylesheet>

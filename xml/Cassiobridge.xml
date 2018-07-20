@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stations SYSTEM "stations.dtd">
+<stations>
+    <station type="building">
+        <img>
+            <imgName>Cassiobridge</imgName>
+            <imgSrc>https://en.wikipedia.org/wiki/List_of_London_Underground_stations#/media/File:Watford,_Ascot_Road_railway_bridge_-_geograph.org.uk_-_735534.jpg</imgSrc>
+        </img>
+        <name>
+            <currentName>Cassiobridge</currentName>
+        </name>
+        <information>
+            <position>
+                <postcode>WD18 7QQ</postcode>
+                <lineAdress>Cassiobridge Road</lineAdress>
+            </position>
+            <openedTime>
+                <year>2020</year>
+            </openedTime>
+            <zones>7</zones>
+            <lines>Metropolitan</lines>
+            <localAuthority>Watford</localAuthority>
+            <usage>0</usage>
+            <website>https://en.wikipedia.org/wiki/Cassiobridge_tube_station</website>
+        </information>
+        <history>
+            <para>Cassiobridge is a proposed London Underground station in Watford, Hertfordshire, England. The station would be part of the Croxley Rail Link project, a scheme to extend the Metropolitan line to Watford Junction railway station. It would be served by Metropolitan line trains between Watford Junction and Central London via Baker Street. The railway line would run over Ascot Road via a viaduct and the platforms will be situated on the east side of the road. Entrance to the station would be from the west side of the road, with a ticket hall and other facilities at street level. Passengers would gain access to the platforms via stairs and lifts and a short footbridge over the road.</para>
+            
+            <para>The station is projected to offer interchange with local transport services, and operate as an unstaffed station, providing automatic ticketing facilities similar to a DLR station. There is potential for Park and Ride facilities to be provided, although planning documents indicate high levels of congestion on adjacent roads.</para>
+            
+            <para> After the new line is opened Watford station will be closed to passenger services, so that all trains from Croxley will continue to Watford Junction. Cassiobridge also replaces the disused British Rail terminus of Croxley Green.</para>
+            
+            <para>The railway and station were expected to come into service in 2020. On 25 January 2017, the Watford Observer newspaper published an update on the Croxley Rail Link confirming work had stopped as there was an ongoing funding issue.</para>
+        </history>
+    </station>
+</stations>
