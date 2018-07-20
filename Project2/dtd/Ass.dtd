@@ -1,0 +1,77 @@
+<!--The DTD file has a top element whiskies, which means there will be lots of individual whisky elements-->
+<!--Each whisky element has three main parts, which are introduction, body and tasting notes.                      -->
+<!--The data type of whisky is required, in my projects, they are all "Scotch".                                                         -->
+
+<!ELEMENT whiskies  (whisky+)>
+<!ELEMENT whisky  (introduction, body, notes)>
+<!ATTLIST whisky types CDATA #REQUIRED >
+
+<!--In introduction, there are title part and intro part.                                                                           -->
+<!--The title includes whisky brand, region, town or village, website, openingtime and image -->
+
+<!ELEMENT introduction (title, intro)  >
+<!ELEMENT title (brand, region,  town, website, openingtime, image)  >
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT town (#PCDATA)>
+<!ELEMENT website (#PCDATA)>
+<!ATTLIST website target CDATA #REQUIRED >
+<!ELEMENT openingtime (#PCDATA)>
+
+<!ELEMENT image (caption?) >
+<!ATTLIST image   filename CDATA #IMPLIED
+                                 src CDATA   #IMPLIED
+                                 alt    CDATA    #IMPLIED>
+<!ELEMENT caption (#PCDATA) >
+
+<!--While intro is a paragraph of some information about the brand, which possibly mention the year established     -->
+
+<!ELEMENT intro (para)>
+<!ELEMENT para (#PCDATA| year_established )*>
+<!ELEMENT year_established (#PCDATA)>
+
+
+<!--The body part contains many paragraphs -->
+
+<!ELEMENT body (p+) >
+<!ELEMENT p (#PCDATA| year_established | oak_used)*>
+<!ELEMENT oak_used (#PCDATA)>
+
+<!--The tasting notes include new make whiskies and some vintages.-->
+<!--In new make, the notes are simple, only have nose, palate, and finish-->
+<!--I assign the types including flavour, feeling and last. Within each type I defined each character which appears which makes each type more specific. -->
+
+<!ELEMENT notes (new_make, vintage+)>
+<!ELEMENT new_make (nose+, palate+, finish+) >
+<!ELEMENT nose (#PCDATA)>
+<!ATTLIST nose type CDATA #IMPLIED
+                               colour CDATA #IMPLIED
+                              flavour CDATA #IMPLIED
+                              feeling CDATA #IMPLIED>
+
+<!ELEMENT palate (#PCDATA)>
+<!ATTLIST palate  type CDATA #IMPLIED 
+                                 flavour CDATA #IMPLIED
+                                 feeling CDATA #IMPLIED>
+                               
+<!ELEMENT finish (#PCDATA)>
+<!ATTLIST finish  type CDATA #IMPLIED
+                                last CDATA #IMPLIED
+                                flavour CDATA #IMPLIED
+                                feeling CDATA #IMPLIED>
+
+<!--Vintage notes would include more information than new make.-->
+<!--Vintage may named based on the year or be given a specific name, sometimes with oak speecified, and alcohol level.-->
+<!--The nose, palate and finish are the same as the new makes.-->
+<!--It also has conclusion, the flavour camp suggested, and where next  suggest the similar whiskies -->
+
+<!ELEMENT vintage (year?, name?, oak?, abv, nose+, palate+, finish+, conclusion, flavourcamp*, wherenext?) >
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT oak (#PCDATA)>
+<!ATTLIST oak  type CDATA #IMPLIED >
+<!ELEMENT abv (#PCDATA)>                             
+<!ELEMENT conclusion (#PCDATA)>
+<!ELEMENT flavourcamp (#PCDATA)>
+<!ATTLIST flavourcamp  type CDATA #IMPLIED >
+<!ELEMENT wherenext (#PCDATA)>

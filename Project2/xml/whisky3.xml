@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xslt/ass3.xsl"?>
+<!DOCTYPE whiskies SYSTEM "../dtd/Ass.dtd">
+<whiskies>
+<whisky types="scotch">
+    <introduction>
+        <title> 
+            <brand>The macallan</brand>
+            <region>Speyside</region>
+            <town>Craigellachie</town>
+            <website target="https://www.themacallan.com">www.themacallan.com</website>
+            <openingtime>open all year easter-sept, Mon-Sat; Oct-Easter, Mon-Fri</openingtime>
+            <image filename="Maccallan18yo.jpg" src="../images/Maccallan18yo.jpg"></image>
+        </title> 
+      
+        
+        <intro>
+            <para>In the early days of single malt being commercialized,
+                it was common practice to compare the drinks to another wood-aged spirit
+                with a high reputation. "This is as good as Cognac," marketeers would say. 
+                In The Macallan's case they'd add terms like "first growth", which is apposite. 
+                The Macallan's HQ, the whitewashed baronial Easter Elchies House, 
+                dose give the whole estate a somewhat refined, chateau-like air.</para>
+        </intro>
+    </introduction>
+   
+    <body>
+        <p>Although The Macallan's approach to whisky-making links it directly with the older distilleries in this cluster,
+            and adds weight to the theory that the earliest ones(the distillery was founded in
+            <year_established>1824</year_established>)
+            tend to make the heaviest whiskies, the manner in which it has sold its whisky has always seen it exist slightly 
+            off-centre from the rest of the industry. One suspects that it doesn't mind that much.</p>
+        
+        <p>This connection with the old ways is manifested most clearly in the stillhouse
+            (or at the time of writing, stillhouses; a second one was brought on-stream in 2008), 
+            where tiny spirit stills hunker over their condensers like Nibelungen dwarves.</p>
+        
+        <p>Reflux is a bad word here. The emphasis is on producing a spirit with guts. 
+            The new make, which you can taste as one of the 
+            many strokes of genius on its innovative tour - is oily, malty, and deep, but importantly, sweet. 
+            It's opinionated, making it clear from day one that thais is not a spirit that will be pushed around.</p>
+        
+        <p>That weight is vital as The Macallan has always allied itself with ex-sherry casks. Such is the symbiotic relationship 
+            with sherry that owner Edrington has casks made to its exacting specifications by the Tevasa cooperage in Jerez.</p>
+        
+        <p><oak_used>As has been traditional, a mix of European oak(Quercus robur), with its high tannin and aromas of clove and dried fruit,
+            and American(Quercus alba), all vanilla and coconut, is used, giving whisky maker Bob Dalgarno two very different main streams
+            of flavour with which to work and there are many variations within those two.</oak_used></p>
+        
+        <p><oak_used>In sherry casks, the oiliness of the new make is both a facilitator of the flavours seeping from the oak, and a barrier to
+            aggressive tannins, preventing them from grabbing the palate like a ferret with a rabbit. Old Macallan is smooth, not grippy.
+            American oak(seen also in some ex-bourbon) reveals more of the cereal and soft fruity notes.</oak_used></p>
+        
+        <p>When I was speaking to him for the first edition, Dalgarno was putting together a vatting of sherry oak 12-year-old from 
+            a range of whiskies, each with a different hue. His deep understanding of how there is a correlation between a colour and 
+            a flavour spectrum has now borne fruit in the newest Macallan range: the four-strong 1824 Series.</p>
+        
+        <p>This was his solution to an issue facing most producers: tightness of stock. Scotch's rapid expansion in the early part of the 
+            twenty-first century caught distillers on the hop. Memories of the whisky loch of the 1980s and subsequent distillery 
+            closures had meant that industry production levels remained cautions for decades. The inevitable result was a shortage of 
+            mature stock when the market exploded. The solution? No Age Statement(NAS) whiskies, which free the whiskymaker from the often
+            restrictive nature of age statements, allowing them to explore flavour and distillery character.</p>
+        
+        <p>Dalgarno's response was to look at how colour could be used as an indicator of character. The irony
+            (not lost on the firm's accountants, you feel) is that the new range is more expensive to produce than the 
+            whiskies its members have replaced.</p>
+        
+        <p>It is unlikely that the stock shortage will reoccur. Huge aircraft-hanger-sized warehouses have been built and 
+            a new much-expanded distillery is currently being constructed.</p>
+        
+        <p>Meanwhile, The Macallan straddles the world, for many the epitome of whisky as luxury, for others a manifestation of 
+            old-style single malt, with a modern twist.</p>
+        
+        
+    </body>
+    <notes>
+        <new_make>
+            <nose type="colour" colour="clean">Clean</nose>
+            <nose type="flavour" flavour="green fruits">green fruits</nose>
+            <nose type="flavour" flavour="sulphur"> Light sulphur</nose>
+            <nose type="feeling" feeling="fat">fat</nose>
+            <nose type="feeling" feeling="oily">oily</nose>
+            <nose type="feeling" feeling="malty">malty</nose>
+            <palate type="feeling" feeling="fat">Fat</palate>
+            <palate type="feeling" feeling="oily">oily</palate>
+            <palate type="feeling" feeling="heavy">Heavy</palate>
+            <palate type="flavour" flavour="green olive">Green olive</palate>
+            <finish type="feeling" feeling="rich">Rich</finish>
+            <finish type="last" last="long">Long</finish>
+        </new_make>
+        
+        <vintage>
+            <name>Gold</name>
+            <abv>40%</abv>
+            <nose type="flavour" flavour="baked white bread">baked white bread</nose>
+            <nose type="flavour" flavour="almond butter">almond butter</nose>
+            <nose type="flavour" flavour="hay"> hay</nose>
+            <nose type="flavour" flavour="vanilla">vanilla</nose>
+            <nose type="feeling" feeling="warm">warm</nose>
+            <nose type="feeling" feeling="yeasty">yeasty freshness mixes</nose>
+            <palate type="feeling" feeling="substance">There's substance behind the light</palate>
+            <palate type="feeling" feeling="opennose"> "open" nose</palate>
+            <palate type="feeling" feeling="oil">a thickness, tougue-clinging oils</palate>
+            <palate type="flavour" flavour="lemon">a vibrant lemon note</palate>
+            <palate type="flavour" flavour="sweets">boiled travel sweets</palate>
+            <finish type="feeling" feeling="dry">Dry </finish>
+            <finish type="feeling" feeling="malty">malty </finish>
+            <conclusion>A lighter introduction to The Macallan but full of distillery character.</conclusion>
+            <flavourcamp type="fruity and spicy">Fruity and Spicy</flavourcamp>
+            <wherenext>Benromach 10yo</wherenext>
+        </vintage>
+        
+        <vintage>
+            <year>15YO</year>
+            <oak type="fine">Fine oak</oak>
+            <abv>43%</abv>
+            <nose type="colour" colour="gold">gold</nose>
+            
+            <nose type="flavour" flavour = "orange peel">Orange peel</nose>
+            <nose type="flavour" flavour = "melon">melon</nose>
+            <nose type="flavour" flavour = "mango">mango</nose>
+            <nose type="flavour" flavour = "vanilla pod">vanilla pod</nose>
+            <nose type="flavour" flavour = "sawdust">sawdust</nose>
+            <nose type="flavour" flavour = "hazelnut">hazelnut</nose>
+            <nose type="feeling" feeling ="polish">polish</nose>
+            
+            <palate type="flavour" flavour = "Nutty oak">nutty oak</palate>
+            <palate type="flavour" flavour = "cooked orchard fruits">cooked orchard fruits</palate>
+            <palate type="flavour" flavour = "black banana">black banana</palate>
+            <palate type="flavour" flavour = "Caramel toffee">caramel toffee</palate>
+            <palate type="flavour" flavour = "bracken">bracken</palate>
+            <palate type="flavour" flavour = "malt">malt</palate>
+            <palate type="flavour" flavour = "dark chocolate">dark chocolate</palate>
+            
+            <finish type="feeling" feeling = "complex">complex</finish>
+            <finish type="feeling" feeling = "fruity">fruity</finish>
+            
+            <conclusion>The distillery character and "Fine Oak" casks in balance.</conclusion>
+            <flavourcamp type="fruity and spicy">Fruity and Spicy</flavourcamp>
+            <wherenext>Glenmorangie 18yo, Glencadam 15yo.</wherenext>
+        </vintage>
+        
+        <vintage>
+            <year>18YO</year>
+            <oak type="sherry">Sherry oak</oak>
+            <abv>43%</abv>
+            <nose type="colour" colour="amber">Dark amber</nose>
+            <nose type="flavour" flavour="fruit cake">Fruit cake</nose>
+            <nose type="flavour" flavour="plum pudding">plum pudding</nose>
+            <nose type="flavour" flavour="moist cake">rich moist cake</nose>
+            <nose type="flavour" flavour="walnut">walnut</nose>
+            <nose type="flavour" flavour="gingerbread">gingerbread</nose>
+            <nose type="flavour" flavour="molasses">molasses</nose>
+            <nose type="flavour" flavour="dried berries">dried berries</nose>
+            <palate type="feeling" feeling="rich">rich</palate>
+            <palate type="feeling" feeling="mouthfilling">mouthfilling</palate>
+            <palate type="feeling" feeling="Chewy">chewy</palate>
+            <palate type="feeling" feeling="ripe">Very ripe</palate>
+            <palate type="feeling" feeling="oily">oily</palate>
+            <palate type="flavour" flavour="raisin"> rainsin</palate>
+            <palate type="flavour" flavour="fig"> fig</palate>
+            <finish type="feeling" feeling="complex">A singed note adding to the complexity.</finish>
+            <conclusion>Balance struck between the bold distillery character and rich oak.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Dalmore 1981, Glenfarclas 15yo</wherenext>
+        </vintage>
+        
+        <vintage>
+            <name>Sienna </name>
+            <abv>43%</abv>
+            <nose type="flavour" flavour="black cherry">Stewed black cherries</nose>
+            <nose type="flavour" flavour="red plum">red plums</nose>
+            <nose type="flavour" flavour="blueberry">blueberries</nose>
+            <nose type="flavour" feeling="pure">purity</nose>
+            <nose type="flavour" feeling="fresh">freshness</nose>
+            
+            <palate type="feeling" feeling="earthy">Earthy</palate>
+            <palate type="feeling" feeling="thick">thick</palate>
+            <palate type="feeling" feeling="tannin">supple tannins</palate>
+            <palate type="flavour" flavour="candle wax"> candle wax</palate>
+            <palate type="flavour" flavour="resin"> resin</palate>
+            <palate type="flavour" flavour="allspice">allspice</palate>
+            <palate type="flavour" flavour="clove"> clove.</palate>
+            <palate type="flavour" flavour="peels"> peels</palate>
+            <palate type="flavour" flavour="perfumed fruits"> perfumed fruits</palate>
+            <palate type="flavour" flavour="artist's palatte"> whiff of an artist's palatte</palate>
+            <finish type="flavour" flavour="raisined">Rainsined</finish>
+            <finish type="last" last="long">long</finish>
+            <conclusion>A country house in autumn.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Yamazaki 18yo</wherenext>
+        </vintage>
+        
+        <vintage>
+            <year>25YO</year>
+            <oak type="sherry">Sherry oak</oak>
+            <abv>43%</abv>
+            <nose type="colour" colour="amber">Rich amber</nose>
+            <nose type="flavour" flavour="dark sweet fruits">dark sweet fruits</nose>
+            <nose type="flavour" flavour="toasted almond">toasted almond</nose>
+            <nose type="flavour" flavour="dried herbs">dried herbs </nose>
+            <nose type="feeling" feeling="sweet">fruit compote sweetness, the sweetness of the spirit now in its fullest expression along 
+                with resin from the oak</nose>
+            <palate type="feeling" feeling="sweet">Very sweet. </palate>
+            <palate type="flavour" flavour="red wine">red wine notes</palate>
+            <palate type="flavour" flavour="grip">Fine grip</palate>
+            <palate type="flavour" flavour="mulberry">mulberry</palate>
+            <palate type="flavour" flavour="cassis">cassis</palate>
+            <palate type="flavour" flavour="smoke"> smoke</palate>
+            <palate type="flavour" flavour="earthy">earthy</palate>
+            <palate type="flavour" flavour="raisin">a full hit of raisin.</palate>
+            <finish type="feeling" feeling="rich">Rich</finish>
+            <finish type="last" last="long">Long</finish>
+            <conclusion>The sherry oak seems to link to the oil and play variations on that theme.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>The GlenDronach 1989, Benromach 1981</wherenext>
+        </vintage>
+        
+        <vintage>
+            <name>Ruby</name>
+            <abv>43%</abv>
+            <nose type="flavour" flavour="prune">Prunes</nose>
+            <nose type="flavour" flavour="dried cherries">dried cherries</nose>
+            <nose type="flavour" flavour="barolo">a sweet/savoury edge akin to Barolo</nose>
+            <nose type="flavour" flavour="Turkish delight">Chocolate-covered Turkish delight.</nose>
+            <nose type="feeling" feeling="robust">Robust</nose>
+            <nose type="feeling" feeling="sweet">Sweet</nose>
+            <palate type="feeling" feeling="rich">Rich</palate>
+            <palate type="flavour" flavour="oloroso">Oloroso notes </palate>
+            <palate type="flavour" flavour="tannin">Assam-like tannins. </palate>
+            <finish type="feeling" feeling="deep">Deep</finish>
+            <finish type="last" last="long">long</finish>
+            <conclusion>Classical in structure and aromatics, with added vinous sweetness.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Aberlour A'Bunadh</wherenext>
+        </vintage>
+    </notes>
+</whisky>
+
+
+<whisky types="scotch">
+    <introduction>
+        <title>
+            <brand>Glenfiddich</brand>
+            <region>Speyside</region>
+            <town>Dufftown</town>
+            <website target="https://www.glenfiddich.com">www.glenfiddich.com</website>
+            <openingtime>Open all year MON-SUN</openingtime>
+            <image filename="Glenfiddich12yo.jpg" src="../images/Glenfiddich12yo.jpg"></image>
+        </title>
+        <intro>
+            <para>As the world's best-selling single malt and the first distillery to open its doors (in 1969), it would be easy for a first-time
+                visitor to Glenfiddich to expect a somewhat cliched recreation of whisky-making, but instead they get the opposite.
+                This is a huge (14-hectare/35-acre) working site with its own cooperage, coppersmith, bottling line 
+                (all Glenfiddich is bottled on site), warehousing...and three distilleries.
+                Glenfiddich is both a modern single malt brand, but also a distillery where - despite the scale - 
+                traditional wthos of self-sufficiency has been retained.</para>
+        </intro>
+    </introduction>
+    <body>
+        <p>Built by William Grant in <year_established>1886</year_established> and still owned by his descendants, the first spirit ran from its small stills(bought from Cardhu)
+            on Christmas Day the following year. You can't help but feel that even in those early days, the founder had an eye on marketing.
+        </p>
+        <p>Glenfiddich is about lightness of character, but walking into the stillhouse you'd think it would produce a similar style to Macallan.
+            The stills are tiny and, science tells us, small stills will tend to produce a heavy, often sulphury new make.
+            Nose Glenfiddich however and it's all grass, green apple, and pear. 
+            "We cut at high strength which is how we get this estery, clean spirit," says William Grant's master blender Brian Kinsman.
+            "If we ran any deeper and cut later it would be much heavier and potentially sulphury."
+        </p>
+        <p>So is this a case of a distillery running against type? "Not as far as we can tell," says Kinsman.
+            "Glenfiddich, from our records, has always been light. The stills have always been that shape, 
+            and as demand grew we just built more of them." If they'd stuck at four stills and tried to cope with increased sales they'd 
+            have had to widen the cut in order to get more liquid - and changed the style.
+            Buliding new stills was the only option in order to retain character.
+            The fact that there are 28 stills in two stillhouses shows how big that demand is.
+        </p>
+        <p>This lack of sulphur is also advantageous, Kinsman says, "as you don't have to overcome something before you start getting 
+            additive maturation". Even at three years of age, Glenfiddich is picking up wood notes, oak shavings in refill; 
+            rope pineapple and creamy vanilla in first-fill bourbon; marmalade and sultana in first-fill European...all cut with that green freshness.
+        </p>
+        <p>A significant improvement in wood management and a rejigging of the wood mix has resulted in a much more coherent range.
+            Whereas in the past Glenfiddich had a somewhat frustrating randomness about it, now there's a thread given by European oak,
+            which is increased slowly with each age expression(bar the 21yo rum finish).
+            As age takes hold, so the green apples of youth ripen, the cut grass dries, and a chocolate note slowly develops.
+            For a light whisky, it manages to hold its own...even at 40 and 50 years.
+            "The new make is light on the nose but it matures incredibly well," says Kinsman.
+            "I think that freshness and intensity belies how much complexity is in there." For me, it seems to ride on a wave of oak,
+            buoyed up by it but always remaining identifiably Glenfiddich.
+        </p>
+        <p>The integration of oak and spirit is best personified by the pioneering establishment in 1998 of a solera vat for the 15yo.
+            This Jerezano technique of gractional blending involves only removing 50 per cent of the vat's contents for each bottling.
+            This is then replaced with a mix comprising of 70 per cent from refill bourbon, 20 per cent from European oak, 
+            and 10 per cent in virgin oak. Solera blending not only adds depth (some whiskies have been there since 1998) 
+            but a different, softer mouthfeel. A similar technique is employed with the 40yo whose never-emptied vat contains remnants 
+            from the 1920s. Three new solera vats have recently been installed for its new "Cask" range.
+        </p>
+        <p>It is this general amenability that holds the key to Glenfiddich's long-term ageing ability - and one might guess,
+            is also the secret of its commercial success as well.
+        </p>
+        
+    </body>
+    <notes>
+        <new_make>
+            <nose type="feeling" feeling="crisp">crisp</nose>
+            <nose type="feeling" feeling="clean">clean</nose>
+            <nose type="flavour" flavour="grassy">grassy</nose>
+            <nose type="flavour" flavour="green apple">green apple</nose>
+            <nose type="flavour" flavour="pineapple">ripe pineapple</nose>
+            <nose type="flavour" feeling="pure">pure</nose>
+            <nose type="flavour" feeling="fresh">fresh</nose>
+            <palate type="flavour" flavour="pear">pears</palate>
+            <palate type="flavour" flavour="grass">grass</palate>
+            <palate type="flavour" flavour="easter">easter</palate>
+            <palate type="flavour" flavour="cereal">Light cereal background</palate>
+            <finish type="feeling" feeling="light">light</finish>
+            <finish type="feeling" feeling="fresh">fresh</finish>
+        </new_make>
+        
+        <vintage>
+            <year>12YO</year>
+            <abv>40%</abv>
+            <nose type="flavour" flavour="vanilla">vanilla</nose>
+            <nose type="flavour" flavour="red apple">red apple</nose>
+            <nose type="flavour" flavour="sultana">sultana</nose>
+            <nose type="flavour" flavour="milk chocolate">milk chocolate</nose>
+            <palate type="feeling" feeling="sweet">pears</palate>
+            <palate type="feeling" feeling="gentle">gentle</palate>
+            <palate type="feeling" feeling="smooth">smooth</palate>
+            <palate type="flavour" flavour="vanilla">vanilla</palate>
+            <palate type="flavour" flavour="christmas pudding">christmas pudding</palate>
+            <palate type="flavour" flavour="mixed fruits">mixed fruits</palate>
+            <finish type="feeling" feeling="buttery">buttery</finish>
+            <finish type="feeling" feeling="grassy">grassy</finish>
+            <conclusion>The green notes of new make have now deepened and ripened. Some European oak has added depth.</conclusion>
+            <flavourcamp type="fragrant and floral">Fragrant and Floral</flavourcamp>
+            <wherenext>The Glenlivet 12yo, anCnoc 16yo</wherenext>
+        </vintage>
+        
+        <vintage>
+            <year>15YO</year>
+            <abv>40%</abv>
+            <nose type="feeling" feeling="ripe">ripe</nose>
+            <nose type="feeling" feeling="soft">soft</nose>
+            <nose type="flavour" flavour="plum jam">plum jam</nose>
+            <nose type="flavour" flavour="baked apple">baked apple</nose>
+            
+            <palate type="feeling" feeling="soft">soft</palate>
+            <palate type="feeling" feeling="silky">silky</palate>
+            <palate type="flavour" flavour="black fruit">stewed black fruit</palate>
+            <palate type="flavour" flavour="coconut">coconut</palate>
+            <palate type="flavour" flavour="dried grass">dried grass</palate>
+            
+            <finish type="feeling" feeling="ripe">ripe</finish>
+            <finish type="feeling" feeling="full">full</finish>
+            <conclusion>Solera adds a richer depth and feel.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Glencadam 1978, Blair Atholl 12yo</wherenext>
+        </vintage>
+        
+        <vintage>
+            <year>18YO</year>
+            <abv>40%</abv>
+            <nose type="flavour" flavour="raisin">raisin</nose>
+            <nose type="flavour" flavour="dried fruits">dried fruits</nose>
+            <nose type="flavour" flavour="mulberry">mulberry</nose>
+            <nose type="flavour" flavour="dark chocolate">dark chocolate</nose>
+            <nose type="flavour" flavour="hay">hay</nose>
+            
+            <palate type="feeling" feeling="grip">grip</palate>
+            <palate type="flavour" flavour="dark fruits">Concertrated dark fruits</palate>
+            <palate type="flavour" flavour="Cacao">Cacao</palate>
+            <palate type="flavour" flavour="cedar">cedar</palate>
+            
+            <finish type="feeling" feeling="smooth">smooth</finish>
+            <finish type="feeling" feeling="long">long</finish>
+            <finish type="feeling" feeling="sweet">sweet</finish>
+            <conclusion>The midpoint of the range as the freshness of youth gives way to the dark mysteries of age.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Jura 16yo, Royal Lochnagar Selected Reserve</wherenext>
+        </vintage>
+        
+        
+        <vintage>
+            <year>21YO</year>
+            <abv>40%</abv>
+            <nose type="colour" colour="amber">Deep amber</nose>
+            <nose type="feeling" feeling="sweet">sweet</nose>
+            <nose type="feeling" feeling="oaky">oaky</nose>
+            <nose type="flavour" flavour="coffee">coffee</nose>
+            <nose type="flavour" flavour="cacao">cacao</nose>
+            <nose type="flavour" flavour="cedar">a touch of cedar</nose>
+            <nose type="flavour" flavour="barley sugar">Barley sugar</nose>
+            <nose type="flavour" flavour="caramel toffee">caramel toffee</nose>
+            <nose type="flavour" flavour="black banana">black banana</nose>
+            
+            <palate type="feeling" feeling="rich">rich</palate>
+            <palate type="feeling" feeling="sweet">sweet</palate>
+            <palate type="feeling" feeling="tannin">light tannins</palate>
+            <palate type="flavour" flavour="Mocha">Mocha</palate>
+            <palate type="flavour" flavour="bitter chocolate">bitter chocolate</palate>
+            <palate type="flavour" flavour="forest floor">forest floor</palate>
+            
+            <finish type="flavour" flavour="dry oak">dry oak</finish>
+            <finish type="flavour" flavour="leafy">leafy</finish>
+            <conclusion>Has maturity, this has been given a finishing period in rum cask.</conclusion>
+            <flavourcamp type="fruity and spicy">Fruity and Spicy</flavourcamp>
+            <wherenext>Balblair 1990, Longmorn 16yo</wherenext>
+        </vintage>
+        
+        
+        <vintage>
+            <year>30YO</year>
+            <abv>40%</abv>
+            <nose type="feeling" feeling="Resinous">Resinous</nose>
+            <nose type="feeling" feeling="thick">thick</nose>
+            <nose type="feeling" feeling="ripe">ripe</nose>
+            <nose type="feeling" feeling="rich">rich</nose>
+            <nose type="feeling" feeling="rancioed">rancioed</nose>
+            <nose type="feeling" feeling="energetic lift">surprising energetic lift</nose>
+            <nose type="flavour" flavour="cigar humidor">Cigar humidor</nose>
+            <nose type="flavour" flavour="nutty">nuttiness</nose>
+            
+            <palate type="feeling" feeling="smooth">smooth</palate>
+            <palate type="feeling" feeling="silky">silky</palate>
+            <palate type="feeling" feeling="mossiness">Flows over the tougue with a slight mossiness.</palate>
+            <palate type="flavour" flavour="Chocolate">Chocolate</palate>
+            <palate type="flavour" flavour="coffee">coffee</palate>
+            
+            <finish type="flavour" flavour="fade">Fading</finish>
+            <finish type="flavour" flavour="sweet">has residual sweetness</finish>
+            <conclusion>The fruits have now been fully concentrated but they dry grassiness is retained giving a vestigial freshness.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Macallan 25yo Sherry Oak, Glen Grant 25yo</wherenext>
+        </vintage>
+        
+        
+        <vintage>
+            <year>40YO</year>
+            <abv>43.5%</abv>
+            <nose type="feeling" feeling="Resinous">Resinous</nose>
+            <nose type="feeling" feeling="oily">oily</nose>
+            <nose type="feeling" feeling="deep">deep</nose>
+            <nose type="feeling" feeling="rich">rich</nose>
+            <nose type="feeling" feeling="rancio">rancio</nose>
+            
+            <nose type="feeling" flavour="Herbs">Herbs</nose>
+            <nose type="feeling" flavour="damp moss">damp moss</nose>
+            <nose type="flavour" flavour="grass">grassiness</nose>
+            <nose type="flavour" flavour="beeswax">Beeswax</nose>
+            <nose type="flavour" flavour="herbal">herbal</nose>
+            
+            <palate type="feeling" feeling="big">big</palate>
+            <palate type="feeling" feeling="rounded">rounded</palate>
+            <palate type="feeling" feeling="elegant">elegant</palate>
+            <palate type="feeling" feeling="rich">rich</palate>
+            <palate type="flavour" flavour="Chocolate">Chocolate</palate>
+            <palate type="flavour" flavour="plum">plum</palate>
+            <palate type="flavour" flavour="espresso">espresso</palate>
+            <palate type="flavour" flavour="mulberry">mulberry</palate>
+            <palate type="flavour" flavour="nutty">nutty</palate>
+            <palate type="flavour" flavour="sherry">sherry</palate>
+            
+            <finish type="flavour" flavour="herbal">herbal</finish>
+            <finish type="flavour" last="long">long</finish>
+            <conclusion>A solera-style system used here with some of the original batch, containing whiskies from the 1920s to the 1940s, kept in the vat.</conclusion>
+            <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+            <wherenext>Dalmore, Candela 50yo</wherenext>
+        </vintage>
+    </notes>
+</whisky>
+    
+    <whisky types="scotch">
+        <introduction>
+            <title>
+                <brand>The GlenDronach</brand>
+                <region>Highland</region>
+                <town>Forgue, By Huntly</town>
+                <website target="https://www.glendronachdistillery.com">www.glendronachdistillery.com</website>
+                <openingtime>Open all year OCT-APR, MON-FRI; MAY-SPET, MON-SUN</openingtime>
+                <image filename="GlenDronach-15yo.jpg" src="../images/GlenDronach-15yo.jpg"></image>
+            </title>
+            <intro>
+                <para>The last of the Garioch trio lies in the village of Forgue and was built in <year_established>1826</year_established> by a consortium of local farmers.
+                    Unusually, in an industry where consolidation has always been the norm, The GlenDronach remained in private hands until 1960
+                    when it became part of Teacher's, the blending house that also owned nearby distillery Ardmore.
+                </para>
+            </intro>
+        </introduction>
+        <body>
+            <p>Teacher's is quite a muscular blend and The GlenDronach was a good fit. This is a big spirit whose new make is weighty with
+                a buttery effect that spreads over the tougue. It's built to cope with prolonged ageing - and ex-sherry casks.
+                Though one-time owner Allied tried to make it a single-malt brand like its Garioch neighbours, The GlenDronach seemed 
+                destined to be a cult until it was bought in 2006 by The BenRiach's Billy Walker. The focus is now single malt.
+            </p>
+            <p>Its muscularity, believes manager Alan McConnochie, lies in an adherence to traditional methods, such as a rake system in the mash tun.
+                "It's a funny thing," he says. "We get the same malt as The BenRiach, but if you stick your head in the mash tun here, 
+                the smell is totally different. They say water doesn't make a difference? I'm not so sure."
+            </p>
+            <p>Long ferments in wooden washbacks take the wash to a slow distillation. "There's little reflux," says McConnochie.
+                "There's no stress here: none of that running up and down the inside of the still." Neither did he notice a difference 
+                when the coal fires were extinguished in 2005.
+            </p>
+            <p>The GlenDronach reminds me a little of former British Prime Minister Gordon Brown. It is a malt of serious mien whose brief 
+                show of youthful exuberance in the 12yo version soon deepens, becoming serious as it does, seemingly being drawn back into 
+                the heavy earth of its birth. The new owner is now giving the whisky five years in ex-bourbon casks before re-racking into 
+                oloroso sherry and sometimes from there into Pedro Ximenez sherry casks.
+            </p>
+            <p>"People associate The GlenDronach with sherry," says McConnochie. "It's a lot harder to overpower it with wood, 
+                which is a nice problem to have!" The muscularity of the farmlands shows through once more.
+            </p>
+        </body>
+        <notes>
+            <new_make>
+                <nose type="feeling" feeling="heavy">heavy</nose>
+                <nose type="feeling" feeling="sweet">sweet</nose>
+                <nose type="feeling" feeling="rich">rich</nose>
+                <nose type="flavour" flavour="earthy">earthy</nose>
+                <nose type="flavour" flavour="fruity">fruity</nose>
+                
+                <palate type="feeling" feeling="Robust">Robust</palate>
+                <palate type="feeling" feeling="buttery">buttery in texture adding weight and suppleness</palate>
+                <finish type="feeling" feeling="long">very long</finish>
+                <finish type="feeling" feeling="fruity">fruity</finish>
+                <finish type="flavour" flavour="plum">plum</finish>
+            </new_make>
+            
+            
+            <vintage>
+                <year>12YO</year>
+                <abv>43%</abv>
+                <nose type="colour" colour="gold">Deep gold</nose>
+                <nose type="feeling" feeling="sweet">sweet</nose>
+                <nose type="feeling" feeling="sherried">sherried</nose>
+                <nose type="flavour" flavour="plum stone">plum stone</nose>
+                <nose type="flavour" flavour="cereal">dusty cereal</nose>
+                
+                <palate type="feeling" feeling="big">big</palate>
+                <palate type="feeling" feeling="rich">rich</palate>
+                <palate type="feeling" feeling="concentrated">concentrated</palate>
+                <palate type="feeling" feeling="unctuous">Unctuous</palate>
+                
+                <palate type="flavour" flavour="dried fruits">dried fruits</palate>
+                <palate type="flavour" flavour="damson">damson</palate>
+                <finish type="feeling" flavour="Earth">Earth</finish>
+                <finish type="feeling" flavour="smoke">smoke</finish>
+                <conclusion>Already full and deep with a spark of adolescent cheekiness.</conclusion>
+                <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+                <wherenext>Glenfiddich 15yo, Cragganmore 12yo, Glenfarclas 12yo</wherenext>
+            </vintage>
+            
+            <vintage>
+                <year>18YO</year>
+                <name>Allardice</name>
+                <abv>46%</abv>
+                <nose type="feeling" feeling="sherried">sherried</nose>
+                <nose type="feeling" feeling="layered">layered</nose>
+                <nose type="feeling" feeling="velvety">velvety</nose>
+                <nose type="flavour" flavour="dried red fruits">dried red fruits</nose>
+                <nose type="flavour" flavour="musk">musk</nose>
+                <nose type="flavour" flavour="raisins">raisins</nose>
+                <nose type="flavour" flavour="toffee">Treacle toffee</nose>
+                
+                <palate type="feeling" feeling="grip">light grip</palate>
+                <palate type="feeling" feeling="deep">depth</palate>
+                <palate type="flavour" flavour="liquorice root">liquorice root</palate>
+                <palate type="flavour" flavour="toffee">Treacle toffee</palate>
+                
+                <finish type="feeling" feeling="sweet">sweet</finish>
+                <finish type="feeling" feeling="long">long</finish>
+                <finish type="flavour" flavour="concentrated fruits">concentrated fruits</finish>
+                <conclusion>This is unreconstructed, old-style single malt.</conclusion>
+                <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+                <wherenext>Karuizawa(1980s), The Macallan 18yo</wherenext>
+            </vintage>
+            
+            
+            <vintage>
+                <year>21YO</year>
+                <name>Parliament</name>
+                <abv>48%</abv>
+                <nose type="feeling" feeling="Big">Big</nose>
+                <nose type="flavour" flavour="Wood oil">Wood oil</nose>
+                <nose type="flavour" flavour="yew trees">yew trees</nose>
+                <nose type="flavour" flavour="dusty">dusty</nose>
+                <nose type="flavour" flavour="dried fruits">dried fruits</nose>
+                <nose type="flavour" flavour="raisins">raisins</nose>
+                <nose type="flavour" flavour="figs">figs</nose>
+                <nose type="flavour" flavour="dates">dates</nose>
+                <nose type="flavour" flavour="coffee grounds">coffee grounds</nose>
+                <nose type="flavour" flavour="mocha">mocha</nose>
+                <nose type="flavour" flavour="molasses">molasses</nose>
+                
+                <palate type="feeling" feeling="ripe">ripe</palate>
+                <palate type="feeling" feeling="full">full</palate>
+                <palate type="feeling" feeling="firm">firm</palate>
+                <palate type="flavour" flavour="smoke">smoke</palate>
+                
+                <finish type="flavour" flavour="Baked fruits">Baked fruits</finish>
+                <finish type="last" last="long">length</finish>
+                <finish type="feeling" feeling="weight">heft</finish>
+                
+                <conclusion>Powerful and complex.</conclusion>
+                <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+                <wherenext>Karuizawa (1970s), Glenfarclas 30yo</wherenext>
+            </vintage>
+        </notes>
+    </whisky>
+    
+    
+    <whisky types="scotch">
+        <introduction>
+            <title>
+                <brand>Dalmore and Invergordon</brand>
+                <region>Highland</region>
+                <town>Alness</town>
+                <website target="https://www.thedalmore.com">www.thedalmore.com</website>
+                <openingtime>Open all year APR-OCT MON-SAT, NOV-MAR MON-FRI</openingtime>
+                <image filename="1981-Dalmore.png" src="../images/1981-Dalmore.png"></image>
+            </title>
+            <intro>
+                <para>A heightened sense of individuality is the key to all the whiskies from this northest coast and Dalmore couldn't be any 
+                    further from Teaninich's steeliness. This is a whisky that revels in its richness and depth. If Teaninich seems to speak 
+                    of an eternal cold spring, at Dalmore, hard on the shores of the Cromarty Firth, it's as if it is autumn all year round. 
+                    You leave with berry juice filling your mouth.
+                </para>
+            </intro>
+        </introduction>
+        <body>
+            <p>Established in <year_established>1839</year_established>, Dalmore's distillation regime seems to have been born out of some manic episode on the part of the founder.
+                The wash stills have flat tops and lyne arms sticking out of thesides, the spirit stills have water jacket mufflers round their necks.
+                To make matters more complicated, they're all different sizes.
+            </p>
+            <p>Dalmore has two stillhouses. The two wash stills in the old stillhouse differ in size to each other; the two in the new stillhouse 
+                match in size, but differ to those in the old stillhouse. Result? Different strengths and character of low wines.
+                The design similarity but size discrepancy is repeated in the spirit stills. At Dalmore, the strength of thod charge will vary because 
+                the stills are all different shapes and sizes. At any point there might be high-strength feints arriving from the spirit-still 
+                side along with high-strength low wines from the wash-still side; equally there might be low-strength feints and low-strength 
+                low wines; or high-strength feints and low-strength low wines, etc. That's a myraid different flavours in the new make.
+            </p>
+            <p>This weight also helps dictate Dalmore's wood policy. This is a spirit that revels in the close attentions of ex-sherry casks, which add
+                structure but also pick up the sweetness and take it deep into mysterious areas. At 5 years it seems to be absorbing wood but keeping its
+                counsel; even at 12 there's a feeling the forces of darkness are massing behind the oaken gates. Only at 15 years does the sleek Dalmore 
+                begin to step out. 
+            </p>
+            <p>In recent years this forgotten giant has been relaunched, propelling itself into the luxury arena with a number of ultra-aged, 
+                ultra-expensive expressions. Sirius, Candela, and Selene all have in excess of 50 years in cask and are filled with exotic concentrated
+                rancio scents of maturity.
+            </p>
+            <p>Three miles up the coast, a different scent pervades the air: one of cooking cereal. This is the site of Scotland's most northerly grain
+                distillery, Invergordon. It may seem unusual to find a type of whisky considered to be urban in such a rural setting, but Invergordon
+                has a long industry history. An aluminium smelter ran until 1981, while a deep-water harbour resulted in the building of a naval yard. Today,
+                wind turbines and oil rigs are manufactured and repaired here and on the other shore of the firth at Nigg Bay.
+            </p>
+            <p>When the naval yard closed in the late 1950s, a new source of employment was needed and building a distillery seemed a perfectly
+                sensible idea. There were crops from the fertile surrounding farmlands, a port, and a workforce. It was the perfect fusion of
+                agriculture and manufacturing heritage.
+            </p>
+            <p>Invergordon started producing from a Coffey still in 1960s, the number soon rising to four sets. Today, it alternates between wheat
+                and maize to produce in the region of 36 million litres(eight million gallons) a year, a make that is spicy and slightly lactic. It's 
+                most widely used in owner Whyte and Mackay's blends, but will be used by other non-group blenders. There was, briefly, a single grain
+                bottling, The Invergordon, targeted at women in the early 1990s, and a malt distillery, Ben Wyvis, ran for 12 years from 1965-77.
+                Its still are now at Glengyle.
+            </p>
+        </body>
+        <notes>
+            <new_make>
+                <nose type="flavour" flavour="kumquat">kumquat</nose>
+                <nose type="flavour" flavour="black fruits">sweet black fruits</nose>
+                <nose type="flavour" flavour="orange juice">orange juice</nose>
+                
+                <palate type="feeling" feeling="Ripe">Ripe</palate>
+                <palate type="feeling" feeling="heavy">heavy</palate>
+                <palate type="flavour" flavour="cereal">cereal</palate>
+                
+                <finish type="feeling" feeling="Fresh">Fresh</finish>
+                <finish type="flavour" flavour="citrus">citrus</finish>
+            </new_make>
+            
+            <vintage>
+                <year>12YO</year>
+                <abv>40%</abv>
+                <nose type="feeling" feeling="restrained">restrained</nose>
+                <nose type="feeling" feeling="crisp">crisp</nose>
+                <nose type="flavour" flavour="malt">malt</nose>
+                <nose type="flavour" flavour="dried fruits">dried fruits</nose>
+                
+                <palate type="feeling" feeling="Clean">Clean</palate>
+                <palate type="flavour" flavour="vanilla">vanilla</palate>
+                <palate type="flavour" flavour="christmas cakes">christmas cakes</palate>
+                <palate type="flavour" flavour="orange peel">orange peel</palate>
+                <palate type="flavour" flavour="currant leaf">currant leaf</palate>
+                <finish type="feeling" feeling="long">long</finish>
+                <finish type="feeling" feeling="fruity">fruity</finish>
+                <conclusion>Already sweetening but still finding its way.</conclusion>
+                <flavourcamp type="fruity and spicy">Fruity and Spicy</flavourcamp>
+                <wherenext>Edradour 1996 Oloroso Finish</wherenext>
+            </vintage>
+            
+            <vintage>
+                <year>15YO</year>
+                <abv>40%</abv>
+                <nose type="feeling" feeling="sweet">sweet</nose>
+                <nose type="feeling" feeling="Substaintial">Substaintial</nose>
+                <nose type="feeling" feeling="weighty">weighty</nose>
+                <nose type="feeling" feeling="sherried">heavy sherry influence</nose>
+                <nose type="flavour" flavour="jammy">Jammy</nose>
+                <nose type="flavour" flavour="hedgerow fruits">hedgerow fruits</nose>
+                <nose type="flavour" flavour="leaf">leaf</nose>
+                
+                <palate type="feeling" feeling="soft">soft</palate>
+                <palate type="feeling" feeling="gentle">gentle</palate>
+                <palate type="flavour" flavour="Dried fruits">Dried fruits</palate>
+                <palate type="flavour" flavour="tea">orange pekoe tea</palate>
+                
+                <finish type="flavour" flavour="Kumquat">Kumquat</finish>
+                <conclusion>A mix of bold sherry casks; the distillery and wood have achieved an equilibrium at this age.</conclusion>
+                <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+                <wherenext>The Singleton of Dufftown 12yo</wherenext>
+            </vintage>
+            
+            <vintage>
+                <year>1981</year>
+                <name>Matusalem</name>
+                <abv>44%</abv>
+                <nose type="feeling" feeling="Round">Round</nose>
+                <nose type="feeling" feeling="rich">rich</nose>
+                <nose type="flavour" flavour="mulberry">mulberry</nose>
+                <nose type="flavour" flavour="coffee">coffee</nose>
+                <nose type="flavour" flavour="rancio">cheese-like rancio</nose>
+                <nose type="flavour" flavour="walnut">walnut</nose>
+                <nose type="flavour" flavour="orange">Seville orange</nose>
+                
+                <palate type="feeling" feeling="Long">Long</palate>
+                <palate type="feeling" feeling="soft">soft</palate>
+                <palate type="feeling" feeling="powerful">powerful</palate>
+                <palate type="flavour" flavour="cigar">Robusto cigar</palate>
+                <palate type="flavour" flavour="leaf mulch">leaf mulch</palate>
+                
+                <finish type="feeling" feeling="long">long</finish>
+                <finish type="flavour" flavour="grip">light grip</finish>
+                <conclusion>Intense, powerful thanks to sweet sherry cask.</conclusion>
+                <flavourcamp type="rich and round">Rich and Round</flavourcamp>
+                <wherenext>Aberlour 25yo, The Macallan 18yo Sherry</wherenext>
+            </vintage>
+            
+            <vintage>
+                <year>15YO</year>
+                <name>Invergordon, cask sample</name>
+                <abv>62%</abv>
+                <nose type="feeling" feeling="sweet">sweet</nose>
+                <nose type="feeling" feeling="sour">sour</nose>
+                <nose type="flavour" flavour="vegetal">vegetal</nose>
+                <nose type="flavour" flavour="flower stalls">flower stalls</nose>
+                <nose type="flavour" flavour="cheese rind">light cheese rind</nose>
+                <nose type="flavour" flavour="grass">grass clippings</nose>
+                
+                <palate type="feeling" feeling="sweet">sweet</palate>
+                <palate type="feeling" feeling="phenolic">light phenolic</palate>
+                <palate type="feeling" feeling="firm">firm</palate>
+                <palate type="flavour" flavour="rum">Trinidadian rum</palate>
+                <palate type="flavour" flavour="cereal">cereal</palate>
+                
+                <finish type="flavour" flavour="Bitter chocolate">Bitter chocolate</finish>
+                <conclusion>The most individual of Scotland's grains.</conclusion>
+            </vintage>
+        </notes>
+    </whisky>
+    
+    
+    <whisky types="scotch">
+        <introduction>
+            <title>
+                <brand>Auchentoshan</brand>
+                <region>Lowland</region>
+                <town>Auchentoshan</town>
+                <website target="https://www.auchentoshan.com">www.auchentoshan.com</website>
+                <openingtime>open all year, MON-SUN</openingtime>
+                <image filename="Auchentoshan-12YO.jpg" src="../images/Auchentoshan-12YO.jpg"></image>
+            </title>
+            <intro>
+                <para>Though the fourthof the handful of Lowlanders may be less than romantically situated - between the River Clyde and 
+                    the main road from Glasgow to Loch Lomond - it offers up another way of producing light: triple-distillation.
+                    In the nineteenth century, this was a fairly common method of production, eapecially in the Lowland belt, perhaps as 
+                    a result of Irish immigration, or even as an attempt to copy what at that time was a more successful whisky style. 
+                    Economics at work again. Today, however, Auchentoshan (aka. "Auchie") is the only Scottish distillery that does it exclusively.
+                </para>
+            </intro>
+        </introduction>
+        <body>
+            <p>Here, triple-distillation is used to build strength and lighten character, ending up with with a fresh, highly focused new make.
+                The charge for the third(spirit) stills is made uo of hig-strength "heads" from the intermediate.
+                When this is distilled the spirit cut is taken between 82-80%abv. "It's on spirit for maybe 15 minutes," 
+                says Iain McCallum, blender at owner Morrison Bowmore.
+                "Obviously that's giving us a light character, but I don't want neutrality. Auchentoshan should have sweetness, a malty note, 
+                citric fruits and, as it matures, a hazelnut character." Auchie's inherent delicacy of character means that McCallum cannot 
+                be too heavy-handed with oak.
+            </p>
+            <p>"It's such a light spirit that it could easily be swamped. I believe strongly in having the character of the spirit 
+                coming through the heart of the brand," says McCallum. "And with Auchie you have to take it easy with the oak."
+            </p>
+            <p>A clever balancing act is therefore required to give the young spirit a sufficient boost from wood: enough to underpin its 
+                delicacy with layers of flavour. Equally, in older expressions the key is having a gentle oaken touch.
+            </p>
+            <p>The lightness of the spirit also means Auchie has a greater degree of flexibility than bolder, stronger, beasts.
+                As a result, the firm has been working extensively with bartenders to develop Auchie as a base for long and mixed drinks.
+            </p>
+            <p>They do things differently beside the Clyde, but it isn't blindly percerse, it is done for a reason: it works.
+            </p>
+        </body>
+        <notes>
+            <new_make>
+                <nose type="feeling" feeling="light">kumquat</nose>
+                <nose type="feeling" feeling="intense">sweet black fruits</nose>
+                <nose type="flavour" flavour="Pink rhubarb">Pink rhubarb</nose>
+                <nose type="flavour" flavour="sweet cardboard">sweet cardboard</nose>
+                <nose type="flavour" flavour="banana peel">banana peel</nose>
+                <nose type="flavour" flavour="leafy">leafy</nose>
+                
+                <palate type="feeling" feeling="tight">tight</palate>
+                <palate type="feeling" feeling="hot">hot</palate>
+                <palate type="flavour" flavour="biscuity">biscuity</palate>
+                <palate type="flavour" flavour="lemon">intense lemon lift</palate>
+                
+                <finish type="last" last="quick">quick</finish>
+                <finish type="flavour" flavour="apple">apple</finish>
+            </new_make>
+            
+            <vintage>
+                <year>NAS</year>
+                <name>Classic</name>
+                <abv>40%</abv>
+                <nose type="colour" colour="gold">Light gold</nose>
+                <nose type="flavour" flavour="oak">Sweet oak</nose>
+                <nose type="flavour" flavour="dusty">Slightly dusty</nose>
+                <nose type="flavour" flavour="floral">light floral note</nose>
+                <nose type="flavour" flavour="coconut">touches of coconut matting from oak</nose>
+                
+                <palate type="feeling" feeling="Sweet">Sweet</palate>
+                <palate type="flavour" flavour="nutty">nutty</palate>
+                <palate type="flavour" flavour="vanilla">vanilla</palate>
+                <palate type="flavour" flavour="chocolate">chocolate</palate>
+                
+                <finish type="feeling" feeling="fresh">fresh</finish>
+                <conclusion>Deftly handled oak allows character to show.</conclusion>
+                <flavourcamp type="malty and dry">Malty and Dry</flavourcamp>
+                <wherenext>Tamnavulin 12yo, Glen Spey 12yo</wherenext>
+            </vintage>
+            
+            
+            <vintage>
+                <year>12YO</year>
+                <abv>40%</abv>
+                <nose type="flavour" flavour="oak">oak leads the way</nose>
+                <nose type="flavour" flavour="bun">hot cross bun</nose>
+                <nose type="flavour" flavour="almond">almond</nose>
+                <nose type="flavour" flavour="citrus">Citrus lift</nose>
+                
+                <palate type="feeling" feeling="Clean">Clean</palate>
+                <palate type="feeling" feeling="soft">soft</palate>
+                <palate type="flavour" flavour="cereal">cereal</palate>
+                <palate type="flavour" flavour="leafy">leafy</palate>
+                <finish type="feeling" feeling="crisp">crisp</finish>
+                <finish type="feeling" feeling="clean">clean</finish>
+                <conclusion>Identifiably Auchie.</conclusion>
+                <flavourcamp type="malty and dry">Malty and Dry</flavourcamp>
+                <wherenext>Macduff 1984</wherenext>
+            </vintage>
+            
+            
+            <vintage>
+                <year>21YO</year>
+                <abv>43%</abv>
+                <nose type="feeling" feeling="mature">Slightly funky maturity</nose>
+                <nose type="feeling" feeling="fresh">freshness</nose>
+                <nose type="flavour" flavour="dark fruits">Concentrated dark fruits</nose>
+                <nose type="flavour" flavour="dry spices">coriander</nose>
+                <nose type="flavour" flavour="chestnut">roast chestnut</nose>
+                <nose type="flavour" flavour="dusty">intense dustiness</nose>
+                
+                <palate type="feeling" feeling="rich">rich</palate>
+                <palate type="feeling" feeling="liquorous">liquorous</palate>
+                <palate type="flavour" flavour="lavebder">lavebder</palate>
+                
+                <finish type="flavour" feeling="perfumed">Perfumed</finish>
+                <conclusion>Even at 21 years a light spirit holds its own. </conclusion>
+                <flavourcamp type="fruity and spicy">Fruity and Spicy</flavourcamp>
+                <wherenext>The Glenlivet 18yo, Benromach 25yo</wherenext>
+            </vintage>
+        </notes>
+    </whisky>
+    
+    
+    <whisky types="scotch">
+        <introduction>
+            <title>
+                <brand>Laphroaig</brand>
+                <region>Islay</region>
+                <town>Port Ellen</town>
+                <website target="https://www.laphroaig.com">www.laphroaig.com</website>
+                <openingtime>Open all year MAR-DEC, MON-SUN; JAN-FEB, MON-FRI</openingtime>
+                <image filename="laphroaig-10yo.jpg" src="../images/laphroaig-10yo.jpg"></image>
+            </title>
+            <intro>
+                <para>The final member of the Kildalton trio lies little more than a couple of miles from Lagavulin. It too is smoky, yet once
+                    again the character of that smoke is fundamentally different to its neighbours'. Laphroaig is heavy and rooty,
+                    like walking down a freshly tarred seaside road on a hot day. It was a style that was envied by its neighbour at one time, 
+                    Sir Peter Mackie, who owned Lagavulin - he had lost the agency for Laphroaig in 1907. He built a replica, called Malt Mill, 
+                    at Lagavulin using the same water, same stills, and even(after financial inducement) the same distiller. The whisky was different. 
+                    "It's something that scientists try to explain, but can't," says Laphroaig's manager, John Campbell.
+                    "Character is about location, maybe that's why distilleries are all across Scotland, rather than in one super-distillery. 
+                    It could be down to altitude, it could be proximity to the sea, it could be humidity...I don't know, but it exists."
+                </para>
+            </intro>
+        </introduction>
+        <body>
+            <p>It does also lie within the creative process at the distillery. Laphroaig still operates its own floor maltings, 
+                which provide up to 20 per cent of its requirements. For Campbell, the maltings aren't there as a sop for tourists, 
+                they certainly don't offer any savings in fixed cost, but they do provide a different character. "We get a different 
+                smokiness here than we get from Port Ellen[malt]. We kiln differently, we peat and then dry at low temperatures. 
+                This gives us higher levels of cresol [a key phenol] and it's this that gives you that tarry note in the spirit. 
+                It wouldn't be there without the floor maltings."
+            </p>
+            <p>The stillhouse is, inevitably, different. There are seven stills for starters, while on the spirit side there are two 
+                different sizes, with one twice the size of the other three. "We are effectively making two different spirits, 
+                which we then marry together before casking," says Campbell.
+            </p>
+            <p>Ardbeg and Lagavulin both strive for an element of reflux to get aweeter estery notes. Laphroaig on the other hand, 
+                steers the other way. Here, Campbell wants to hold onto that heavy tarry weight that means having the longest foreshot 
+                run in the industry (45 minutes) so that those sweet esters at the start of the run are recycled rather than collected. 
+                "We cut at 60%abv, which isn't as low as some, but because we get less of the estery notes there is a larger percentage 
+                of smokiness, so the spirit seems heavier."
+            </p>
+            <p>The sweetness that does exist within Laphroaig is found from its virtually exclusive use of American oak barrels - 
+                all of which come from Maker's Mark. "For consistency", says Campbell. It's this vanilla character that smoothes away 
+                the more rugged edge of the new make and adds a subtle sweet drive to the mature spirit. A good example of this process 
+                is the Quarter Cask release in which young Laphroaig is given a short period of extra maturation in the new tiny, 
+                "quarter" casks made from American oak. The vanilla and the smoke are here at their peak.
+            </p>
+            <p>For Campbell though Laphroaig is more than just technology, it's people. "I'd say that we were the result of the people 
+                who have worked here. People have influenced the style and the sttitude to making whisky, none more so than Ian Hunter 
+                [who owned it from 1924-54]. It was he who created the recipe that we have now. In the 1920s we were mucking around and 
+                it really wasn't until 1940, after Prohibition, that he began to source ex-bourbon casks and mature the whisky on site."
+            </p>
+            <p>So, it comes back to location again. "A traditional warehouse gives more body to the whisky, maybe because you get more 
+                oxidation in a damp dunnage than the rack. We have both on site and I know that there is a difference." 
+                Maybe he should have told Sir Peter Mackie.
+            </p>
+        </body>
+        <notes>
+            <new_make>
+                <nose type="feeling" feeling="Heavy">Heavy</nose>
+                <nose type="feeling" feeling="oily">Oilier than its neighbours</nose>
+                <nose type="feeling" feeling="complex">Has complexity</nose>
+                <nose type="flavour" flavour="smoke">tarry smoke</nose>
+                <nose type="flavour" flavour="medicinal">iodine</nose>
+                <nose type="flavour" flavour="medicinal">hospital</nose>
+                <nose type="flavour" flavour="malt">crisp maltiness</nose>
+                <nose type="flavour" flavour="gentian root">gentian root</nose>
+                
+                <palate type="flavour" flavour="ember">Hot embers followed by the rich spread of smoke. Both dark and clean.</palate>
+                <palate type="flavour" flavour="road">Hot roads on a summer day by the sea.</palate>
+                
+                <finish type="feeling" feeling="dry">dry</finish>
+                <finish type="feeling" feeling="clean">clean</finish>
+                <finish type="feeling" feeling="crisp">crisp</finish>
+                <finish type="flavour" flavour="smoky">smoky</finish>
+            </new_make>
+            
+            <vintage>
+                <year>10YO</year>
+                <abv>40%</abv>
+                <nose type="colour" colour="gold">rich gold</nose>
+                <nose type="flavour" flavour="oak">sweet oak</nose>
+                <nose type="flavour" flavour="Wood oil">Wood oil</nose>
+                <nose type="flavour" flavour="pine woods">pine woods</nose>
+                <nose type="flavour" flavour="Seashore">Seashore</nose>
+                <nose type="flavour" flavour="wintergreen">wintergreen</nose>
+                <nose type="flavour" flavour="nutty">Nutty</nose>
+                <nose type="flavour" flavour="medicinal">iodine</nose>
+                
+                <palate type="feeling" feeling="smooth">smooth</palate>
+                <palate type="feeling" feeling="soft">soft</palate>
+                <palate type="feeling" feeling="tarry">tarry</palate>
+                <palate type="flavour" flavour="vanilla">plenty of vanilla accents</palate>
+                <palate type="flavour" flavour="smoke">smoke</palate>
+                <palate type="flavour" flavour="oak">oak</palate>
+                <finish type="last" last="long">long</finish>
+                <finish type="flavour" flavour="smoke">lightly peppery smoke</finish>
+                <conclusion>The key here is the balance between the dry(smoke) and sweet(oak).</conclusion>
+                <flavourcamp type="smoky and peaty">Smoky and Peaty</flavourcamp>
+                <wherenext>Ardbeg 10yo</wherenext>
+            </vintage>
+            
+            <vintage>
+                <year>18YO</year>
+                <abv>48%</abv>
+                <nose type="colour" colour="gold">rich gold</nose>
+                <nose type="feeling" feeling="Restrained">Restrained</nose>
+                <nose type="feeling" feeling="spicy">a spicier edge alongside that creamy oak</nose>
+                <nose type="feeling" feeling="gentle">gentle</nose>
+                <nose type="flavour" flavour="smoke">The smoke, having been given more time with the oak</nose>
+                <nose type="flavour" flavour="medicinal">iodine</nose>
+                
+                <palate type="flavour" flavour="nutty">Walnut</palate>
+                <palate type="flavour" flavour="raisin">raisin</palate>
+                <palate type="flavour" flavour="citric">citric</palate>
+                <palate type="flavour" flavour="smoke">smoke</palate>
+                
+                <finish type="flavour" flavour="cashew">Smoked salted cashew</finish>
+                <conclusion>A toned-down example.</conclusion>
+                <flavourcamp type="smoky and peaty">Smoky and Peaty</flavourcamp>
+                <wherenext>Caol lla 18yo</wherenext>
+            </vintage>
+            
+            <vintage>
+                <year>25YO</year>
+                <abv>51%</abv>
+                <nose type="feeling" feeling="smoky">smoky</nose>
+                <nose type="flavour" flavour="Soy sauce">Soy sauce</nose>
+                <nose type="flavour" flavour="fishboxes">fishboxes</nose>
+                <nose type="flavour" flavour="dried tar">dried tar</nose>
+                <nose type="flavour" flavour="tobacco">heavy tobacco</nose>
+                <nose type="flavour" flavour="lobster creels">burning lobster creels</nose>
+                
+                <palate type="feeling" feeling="gentle">gentle</palate>
+                <palate type="feeling" feeling="thick">Age has thickened it</palate>
+                <palate type="feeling" feeling="complex">coherent with full integration(and therefore complexity) of distillery character</palate>
+                <palate type="flavour" flavour="oak">oak plus new exotic flavours.</palate>
+                
+                <finish type="feeling" feeling="tarry">Still tarry</finish>
+                
+                <conclusion>Smoke doesn't disappear, it simply becomes more concentrated and absorbed into the overall flavour.</conclusion>
+                <flavourcamp type="smoky and peaty">Smoky and Peaty</flavourcamp>
+                <wherenext>Ardbeg Lord of the Isles 25yo</wherenext>
+            </vintage>
+        </notes>
+    </whisky>
+    
+</whiskies>
